@@ -50,6 +50,7 @@ export default function RootLayout({
             </header>
             <div className="w-full">
               <Providers>{children}</Providers>
+
             </div>
             <footer className="w-full flex items-center justify-center  mx-auto text-center text-xs gap-8 py-16">
             </footer>
